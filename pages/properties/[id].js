@@ -1,4 +1,4 @@
-import { usePropertyFormat } from '@/features/common/hooks/usePropertyFormat';
+import { usePropertyFormat } from '@/features/common/Hooks/usePropertyFormat';
 import TextContentBox from '@/features/common/modules/TextContentBox';
 import DefaultLayout from '@/features/Layouts/DefaultLayout';
 import { getProperty } from '@/features/Property/api/getProperty';

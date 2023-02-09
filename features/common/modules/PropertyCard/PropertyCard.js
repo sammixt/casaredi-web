@@ -1,5 +1,5 @@
 import { Badge, Box, Flex, HStack, Text } from "@chakra-ui/react";
-import { usePropertyFormat } from "../../hooks/usePropertyFormat";
+import { usePropertyFormat } from "../../Hooks/usePropertyFormat";
 import { TbBed, TbBath, TbRuler} from "react-icons/tb"
 import Link from "next/link";
 
